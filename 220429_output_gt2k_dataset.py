@@ -12,7 +12,7 @@ from tqdm import tqdm
 
 
 #%%
-npz = np.load("p1_old_dataset.npz", allow_pickle=True)
+npz = np.load("p1_2328_old_dataset.npz", allow_pickle=True)
 print(npz.files)
 
 print(npz["label"])

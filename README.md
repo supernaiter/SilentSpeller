@@ -2,7 +2,11 @@
 
 # Overview
 
-## Data Downloads
+## Data Preparation
+Please download P1's dataset from the link below:
+https://u.pcloud.link/publink/show?code=kZSLNFVZtSnyxYc4rVm0UBVdQKowhSiCDU4X
+
+After downloading the dataset, run 220429_output_gt2k_dataset.py to make GT2k(HTK) styled dataset for training. You will get a folder named "gt2k_raw".
 
 ## Recognition part
 ###Dependencies
